@@ -1,16 +1,15 @@
-## Hi there 👋
+>
+> Even if none of this really involves me,
+> there's no way I can convince myself that it's not my fault. No thanks.
+> I can't say what I'll be thinking when I die,
+> but I'm not gonna regret the way I live!
+>
+> ― ***Itadori Yuji***
 
-<!--
-**negilaxu/negilaxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><code><b>Tech I've Learned</b></code></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js&theme=dark" alt="Git, GitHub, HTML, CSS, Sass, and JavaScript" />
+</details>
